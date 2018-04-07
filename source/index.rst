@@ -1,11 +1,13 @@
 ====================
-Sponge Documentation
+AridiaCraft Dokumentation
 ====================
 
-Introduction
+Einleitung
 ============
 
-Welcome to SpongeDocs, the official documentation for the open-source `Sponge <https://www.spongepowered.org>`__ project.
+Willkommen bei AridiaDocs, die offizielle Dokumentation zum Minecraft Modpack "AridiaCraft".
+
+.. image:: /images/AridiaCraft-Banner1.png
 
 The SpongeAPI is your all new plugin API for Minecraft: Java Edition. You can run it on a plain vanilla server (as
 SpongeVanilla) or on your fully modded MinecraftForge server (as SpongeForge). Grab your copy
