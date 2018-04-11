@@ -1,5 +1,5 @@
 =================
-Änderungen am Vanilla Game
+Mekanism
 =================
 
 The articles in this section explain how to create and run a server powered by an implementation of the Sponge API.
@@ -19,7 +19,5 @@ Contents
 .. toctree::
     :maxdepth: 2
     :titlesonly:
-
-    getting-started/index
-    management/index
-    spongineer/index
+    
+    tutorial

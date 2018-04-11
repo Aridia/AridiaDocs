@@ -1,8 +1,24 @@
 =================
-Änderungen am Vanilla Game
+Item - Lagerung
 =================
 
-The articles in this section explain how to create and run a server powered by an implementation of the Sponge API.
+Die Itemlagerung in Minecraft ist bestimmt kein einfaches Thema. Durch Mods wird dieses Problem nicht umbedingt verbesert.
+Hier gibt es mehr Erze, mehr Items, einfach von allem mehr.
+
+Wir haben in unserem Mod-Pack einige Mods hinzugefügt, welche die Lagerung von Gegenständen vereinfachen soll.
+
+Hierzu habt ihr folgende Möglichkeiten:
+
+.. toctree::
+    :maxdepth: 2
+    :titlesonly:
+    
+    ae2/index
+    iron
+    mekanism
+    refined/index
+    drawers
+    quantum
 
 If you're a user who wishes to create a new server using an implementation of Sponge or migrate an
 existing server to an implementation of Sponge, this is for you. Plugin developers may also be interested in the
@@ -15,11 +31,3 @@ articles contained within this section - test servers can be useful for plugin d
 
 Contents
 ========
-
-.. toctree::
-    :maxdepth: 2
-    :titlesonly:
-
-    getting-started/index
-    management/index
-    spongineer/index
