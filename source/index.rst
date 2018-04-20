@@ -18,6 +18,13 @@ Willkommen bei AridiaDocs, die offizielle Dokumentation zum Minecraft Modpack "A
     
 .. image:: http://status.mclive.eu/AridiaCraft/aridia.net/25565/banner.png
 
+Dynmap
+~~~~~~~
+
+.. raw:: html
+
+    <iframe src="http://aridia.net:8123" class="an-iframe"></iframe>
+
 Inhalte
 ========
 
@@ -84,10 +91,13 @@ Mod-Speizifisch
 ~~~~~~~~~~~~~~~~
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :titlesonly:
     :caption: Mod-Spezifisch
     
-    mods/index
-    
+    mods/blood/index
+    mods/botania/index
+    mods/buildcraft/index
+    mods/compact/index
+    mods/mekanism/index
 
